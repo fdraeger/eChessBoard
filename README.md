@@ -24,7 +24,7 @@ The resonance is measured for each square and the piece type is recognized.
 1.  Build a POC: signal generation, amplifier, sending coil.
     >Generate a clean signal at the coil in the frequency range of 90kHZ - 300kHZ
     >
-    >  AD9833 ==> LM384  ==> Send Coil
+    >  [AD9833](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9833.pdf) ==> [LM384}(https://www.ti.com/lit/ds/symlink/lm384.pdf)  ==> Send Coil
     >
     >? Will the LM384 amp schematic be sufficient
 
