@@ -39,6 +39,7 @@ The resonance is measured for each square and the piece type is recognized.
     >? LC Element: ferrit core? Y/N?
     >
     >How clearly can we separate/distinct resonance frequencies? We need 12 frequencies clearly distinguishable.
+    >Ideally we work with fixed resonance frequencies (no freq sweep).
 
 1.  POC: Reading Coil, Detection & ADC
     >? do we need an amp after the coil?
