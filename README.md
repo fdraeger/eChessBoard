@@ -16,7 +16,8 @@ Chess board which recognizes pieces
 ## LC Resonance
 LC oscillators inside the pieces are forced into oscillating at their specific resonance frequency.
 The resonance is measured for each square and the piece type is recognized.
-![image](https://github.com/fdraeger/eChessBoard/assets/19647221/67a14fde-7d8e-4f22-9eba-a0840a20e8dd)
+![LC-Chess Concept_v2](https://github.com/fdraeger/eChessBoard/assets/19647221/73da6a58-e1e4-49db-af92-f5e03dd56589)
+
 
 ## Development Steps
 
