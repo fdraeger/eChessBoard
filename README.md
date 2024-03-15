@@ -11,6 +11,7 @@ Chess board which recognizes pieces
 | hidden RGB led per square | nice |
 | support and recognize all chess moves (takes, castling, promotion) | must |
 | support free chess starting positions | must |
+| indexing/coding of new pieces to add/replace pieces. | must |
 
 ## Concepts
 
