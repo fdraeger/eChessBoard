@@ -59,19 +59,19 @@ Make various LC Element configurations for evaluation
 >
 >How clearly can we separate/distinct resonance frequencies? We need 12 frequencies clearly distinguishable.
 >Ideally we work with fixed resonance frequencies (no freq sweep).
->
->Can we use the [ESP32 pulse counter feature](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/pcnt.html)? 
 
 ### Phase Two: Measure LC element frequency
 POC: Reading Coil, Detection & ADC
-    >? do we need an amp after the coil?
-    >  RECV COIL ==> AMP ==> ENV DETECTION ==> ADC
-    >
-    >? What are otions to detect the LC resonance frequency? Are there Freq detection chips?
-    >How can the signal be transformed into rectangular shape?
-    >
-    >? Can we use hall sensors and count their trigger signals on the LC magnetic field changing polarity?
-    >eg. [A1101](https://www.allegromicro.com/~/media/Files/Datasheets/A110x-Datasheet.ashx)
+>? do we need an amp after the coil?
+>  RECV COIL ==> AMP ==> ENV DETECTION ==> ADC
+>
+>? What are otions to detect the LC resonance frequency? Are there Freq detection chips?
+>How can the signal be transformed into rectangular shape?
+>
+>Can we use the [ESP32 pulse counter feature](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/pcnt.html)? 
+>
+>? Can we use hall sensors and count their trigger signals on the LC magnetic field changing polarity?
+>eg. [A1101](https://www.allegromicro.com/~/media/Files/Datasheets/A110x-Datasheet.ashx)
 
 
 ## Alternate Concepts
