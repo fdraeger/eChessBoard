@@ -10,8 +10,12 @@ Chess board which recognizes pieces
 | Look&Feel like high quality wooden chessboard. max board height 30mm | must |
 | hidden RGB led per square | nice |
 | support and recognize all chess moves (takes, castling, promotion) | must |
-| support free chess starting positions | must |
+| support custom chess starting positions | must |
 | indexing/coding of new pieces to add/replace pieces. | must |
+| chess board web interface & live game streaming | nice |
+| DGT chess clock interface compatibility | nice |
+| online chess engine interface - play against engine (requires LED) | nice | 
+| play checkers, too | nice |
 
 ## LC Resonance
 LC oscillators inside the pieces are forced into oscillating at their specific resonance frequency.
