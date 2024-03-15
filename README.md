@@ -47,6 +47,9 @@ The resonance is measured for each square and the piece type is recognized.
     >
     >? What are otions to detect the LC resonance frequency? Are there Freq detection chips?
     >
+    >? Can we use hall sensors and count their trigger signals on the LC magnetic field changing polarity?
+    >eg. [A1101](https://www.allegromicro.com/~/media/Files/Datasheets/A110x-Datasheet.ashx)
+
 
 ## Alternate Concept
 ### RFID
