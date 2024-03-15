@@ -38,7 +38,7 @@ Stage two (reading LC signal):
 
 ## Development Steps
 
-### Phase One
+### Phase One: Build stimulating part
 Build a POC: signal generation, amplifier, sending coil.
     >Generate a clean signal at the coil in the frequency range of 90kHZ - 300kHZ
     >
@@ -60,7 +60,7 @@ Make various LC Element configurations for evaluation
     >How clearly can we separate/distinct resonance frequencies? We need 12 frequencies clearly distinguishable.
     >Ideally we work with fixed resonance frequencies (no freq sweep).
 
-### Phase Two
+### Phase Two: Measure LC element frequency
 POC: Reading Coil, Detection & ADC
     >? do we need an amp after the coil?
     >  RECV COIL ==> AMP ==> ENV DETECTION ==> ADC
