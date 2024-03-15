@@ -50,7 +50,7 @@ The resonance is measured for each square and the piece type is recognized.
     >eg. [A1101](https://www.allegromicro.com/~/media/Files/Datasheets/A110x-Datasheet.ashx)
 
 
-## Alternate Concept
+## Alternate Concepts
 ### RFID
 An RFID tag is placed into the piece.
 For each square, an RFID read operation is performed and pieces are recognized by their specific ID.
