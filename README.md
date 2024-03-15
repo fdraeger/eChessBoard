@@ -38,14 +38,15 @@ Stage two (reading LC signal):
 
 ## Development Steps
 
-1.  Build a POC: signal generation, amplifier, sending coil.
+### Phase One
+Build a POC: signal generation, amplifier, sending coil.
     >Generate a clean signal at the coil in the frequency range of 90kHZ - 300kHZ
     >
     >  [AD9833](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9833.pdf) ==> [LM384](https://www.ti.com/lit/ds/symlink/lm384.pdf)  ==> Send Coil
     >
     >? Will the LM384 amp schematic be sufficient
 
-1.  Make various LC Element configurations    
+Make various LC Element configurations for evaluation
     >Experiment with different coil sizes and LC parameters
     >
     >? what would a "good" inductance range be? 1mH, 10mH, ...?
@@ -59,11 +60,13 @@ Stage two (reading LC signal):
     >How clearly can we separate/distinct resonance frequencies? We need 12 frequencies clearly distinguishable.
     >Ideally we work with fixed resonance frequencies (no freq sweep).
 
-1.  POC: Reading Coil, Detection & ADC
+### Phase Two
+POC: Reading Coil, Detection & ADC
     >? do we need an amp after the coil?
     >  RECV COIL ==> AMP ==> ENV DETECTION ==> ADC
     >
     >? What are otions to detect the LC resonance frequency? Are there Freq detection chips?
+    >How can the signal be transformed into rectangular shape?
     >
     >? Can we use hall sensors and count their trigger signals on the LC magnetic field changing polarity?
     >eg. [A1101](https://www.allegromicro.com/~/media/Files/Datasheets/A110x-Datasheet.ashx)
