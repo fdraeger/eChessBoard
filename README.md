@@ -72,6 +72,8 @@ POC: Reading Coil, Detection & ADC
 >
 >? Can we use hall sensors and count their trigger signals on the LC magnetic field changing polarity?
 >eg. [A1101](https://www.allegromicro.com/~/media/Files/Datasheets/A110x-Datasheet.ashx)
+>probably too slow (signal raise & falling times of 400ns)
+>
 
 
 ## Alternate Concepts
