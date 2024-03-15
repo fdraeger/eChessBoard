@@ -1,6 +1,17 @@
 # eChessBoard
 Chess board which recognizes pieces
 
+## Requirements
+| Requirement | Importance |
+|-----------------------|-------|
+| piece recognition by type and color. 12 unique types. | must |
+| no delays while playing | must |
+| realtime piece move recording. moving (short board read cycles) | nice |
+| Look&Feel like high quality wooden chessboard. max board height 30mm | must |
+| hidden RGB led per square | nice |
+| support and recognize all chess moves (takes, castling, promotion) | must |
+| support free chess starting positions | must |
+
 ## Concepts
 
 ### LC Resonance
