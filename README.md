@@ -40,25 +40,27 @@ Stage two (reading LC signal):
 
 ### Phase One: Build stimulating part
 Build a POC: signal generation, amplifier, sending coil.
-    >Generate a clean signal at the coil in the frequency range of 90kHZ - 300kHZ
-    >
-    >  [AD9833](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9833.pdf) ==> [LM384](https://www.ti.com/lit/ds/symlink/lm384.pdf)  ==> Send Coil
-    >
-    >? Will the LM384 amp schematic be sufficient
+>Generate a clean signal at the coil in the frequency range of 90kHZ - 300kHZ
+>
+>  [AD9833](https://www.analog.com/media/en/technical-documentation/data-sheets/AD9833.pdf) ==> [LM384](https://www.ti.com/lit/ds/symlink/lm384.pdf)  ==> Send Coil
+>
+>? Will the LM384 amp schematic be sufficient
 
 Make various LC Element configurations for evaluation
-    >Experiment with different coil sizes and LC parameters
-    >
-    >? what would a "good" inductance range be? 1mH, 10mH, ...?
-    >
-    >? LC Element: what is a good frequency range?
-    >
-    >? LC Element: how small can you get?
-    >
-    >? LC Element: ferrit core? Y/N?
-    >
-    >How clearly can we separate/distinct resonance frequencies? We need 12 frequencies clearly distinguishable.
-    >Ideally we work with fixed resonance frequencies (no freq sweep).
+>Experiment with different coil sizes and LC parameters
+>
+>? what would a "good" inductance range be? 1mH, 10mH, ...?
+>
+>? LC Element: what is a good frequency range?
+>
+>? LC Element: how small can you get?
+>
+>? LC Element: ferrit core? Y/N?
+>
+>How clearly can we separate/distinct resonance frequencies? We need 12 frequencies clearly distinguishable.
+>Ideally we work with fixed resonance frequencies (no freq sweep).
+>
+>Can we use the [ESP32 pulse counter feature](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/pcnt.html)? 
 
 ### Phase Two: Measure LC element frequency
 POC: Reading Coil, Detection & ADC
