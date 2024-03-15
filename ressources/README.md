@@ -3,9 +3,9 @@
 # LC Resonance concept
 
 
-[Best reference so far](https://www.chessprogramming.org/DGT_Board)
+[Best reference so far](https://www.chessprogramming.org/DGT_Board) this uses separate colis for stimulating ranges (rows) and reading files (columns)
 
-[Someone had a go at it](https://electronics.stackexchange.com/questions/551581/detecting-chess-pieces-on-the-board)
+[Someone had a go at it](https://electronics.stackexchange.com/questions/551581/detecting-chess-pieces-on-the-board) this is where I started from.
 
 ## Measuring frequencies
 
