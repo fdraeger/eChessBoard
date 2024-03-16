@@ -82,7 +82,7 @@ An RFID tag is placed into the piece.
 For each square, an RFID read operation is performed and pieces are recognized by their specific ID.
 
 Selection of transponders and readers needs to match supported protocols. Main protocols are MIFRAE, ISO 14443 (low range< 10cm) and 15693 (long range <60cm).
-The popular MFRC522 chip does not support the 15693. Bummer, because there is a super small ( 4x4x0.7mm) transponder.
+The popular MFRC522 chip does not support the 15693. Bummer, because there is a super small ( 4x4x0.7mm) transponder (thanks Paul Kelly for pointing this out).
 14443 transponders get as small as 8x5mm, but cost about 1€ each.
 
 I tried a MFRC522 test setup and must say, the behaviour is quite good.
