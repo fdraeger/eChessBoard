@@ -1,4 +1,4 @@
 # Conceptual Overview
 Initial brainstorm / Draft
+<img width="745" alt="image" src="https://github.com/fdraeger/eChessBoard/assets/19647221/de4a8cd2-9635-4102-b751-3bd017276d13">
 
-![image](https://github.com/fdraeger/eChessBoard/assets/19647221/1e9df9d2-c136-4b55-979a-d6df87dfa9ec)
