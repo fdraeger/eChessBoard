@@ -24,11 +24,12 @@ Their resonance is measured for each square and the piece type is recognized.
 ![LC-Chess Concept_v2](https://github.com/fdraeger/eChessBoard/assets/19647221/f4ed7cbb-b8b4-464f-8bc2-8b8abed7b2ed)
 
 ### Questions
-First stage:
+Stimulating part:
 *  Will the LM384 5W Amp setup be sufficient to start ? Frequency issues when dealing with 300kHz ? Coil will be around 2 Ohms, is that an issue?
 *  What coil inductance aspects should be considered to stimulate the LC element? Inductance? Ideally it is a PCB coil.
+*  How long will a resonace last?
 
-Stage two (reading LC signal):
+Reading LC signal:
 *  do we need an amplifier? Specs? Reference Schematic?
 *  Converting RecvCOil signal into square wave pulses for easy frequency detection. IC for this? reference schematic?
 *  are there ICs for freq measurements (in our frequancy range)?
