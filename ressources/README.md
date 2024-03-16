@@ -12,5 +12,5 @@
 ### ESP32
 [Freq Meter with ESP32](https://www.esp32.com/viewtopic.php?t=17018)
 
-### rectifying signals
-???
+### square signal from sine wave
+[Sine To Square Wave Converter using op amp](https://www.multisim.com/content/8Tiu4LG2q27AwJeXdCmYdA/sine-to-square-wave-converterusing-op-amp/)
