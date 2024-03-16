@@ -25,9 +25,9 @@ Their resonance is measured for each square and the piece type is recognized.
 
 ### Questions
 Stimulating part:
-*  Will the LM384 5W Amp setup be sufficient to start ? Frequency issues when dealing with 300kHz ? Coil will be around 2 Ohms, is that an issue?
-*  What coil inductance aspects should be considered to stimulate the LC element? Inductance? Ideally it is a PCB coil.
-*  How long will a resonace last?
+*  Will the LM384 5W Amp setup be sufficient to start? Fmax ~300kHz? Coil ~2 Ohms.
+*  What coil inductance aspects should be considered to stimulate the LC element? 1mH? 10mH? Does it matter? Ideally it is a PCB coil.
+*  How long will a resonace last? If it last long enough, we could scan an entire row (8 readings) in one go.
 
 Reading LC signal:
 *  do we need an amplifier? Specs? Reference Schematic?
