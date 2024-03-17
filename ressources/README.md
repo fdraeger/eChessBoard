@@ -7,6 +7,12 @@
 
 [Someone had a go at it](https://electronics.stackexchange.com/questions/551581/detecting-chess-pieces-on-the-board) this is where I started from.
 
+## Calculating & Designing inductance
+[Simple Accurate Expressions for Planar Spiral Inductances](http://smirc.stanford.edu/papers/JSSC99OCT-mohan.pdf)
+[Integrated Spiral Inductor Calculator](http://www-smirc.stanford.edu/spiralcalc.html)
+
+[Create Powerful PCB Coils with Automation - KiCad Plugin Secrets!](https://www.youtube.com/watch?v=CDhlx_VMpCc)
+
 ## Measuring frequencies
 
 ### ESP32
