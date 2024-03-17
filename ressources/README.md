@@ -2,7 +2,7 @@
 
 # LC Resonance concept
 
-* [US Patent: DEVICE FOR DETECTING PLAYING PIECES ON A BOARD](https://patents.google.com/patent/US6168158)
+* [US Patent: DEVICE FOR DETECTING PLAYING PIECES ON A BOARD](https://patents.google.com/patent/US6168158)  see directory for PDF
 * [Best reference so far](https://www.chessprogramming.org/DGT_Board) this uses separate coils for stimulating ranges (rows) and reading files (columns)
 * [Someone had a go at it](https://electronics.stackexchange.com/questions/551581/detecting-chess-pieces-on-the-board) this is where I started from.
 
