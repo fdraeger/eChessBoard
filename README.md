@@ -68,7 +68,8 @@ POC: Reading Coil, Detection & ADC
 >? What are otions to detect the LC resonance frequency? Are there Freq detection chips?
 >How can the signal be transformed into rectangular shape?
 >
->Can we use the [ESP32 pulse counter feature](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/pcnt.html)? 
+>Can we use the [ESP32 pulse counter feature](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/pcnt.html)?
+>This doesn't seem to be part of the micropython port?
 >
 >? Can we use hall sensors and count their trigger signals on the LC magnetic field changing polarity?
 >eg. [A1101](https://www.allegromicro.com/~/media/Files/Datasheets/A110x-Datasheet.ashx)
