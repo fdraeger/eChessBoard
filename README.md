@@ -86,7 +86,7 @@ The popular MFRC522 chip does not support the 15693. Bummer, because there is a 
 14443 transponders get as small as 8x5mm, but cost about 1€ each.
 
 I tried a MFRC522 test setup and must say, the behaviour is quite good.
-Alternatives are: NXPs (PN5180)[https://www.nxp.com/docs/en/data-sheet/PN5180A0XX_C3_C4.pdf] or (ST25Rxxx)[https://www.st.com/en/nfc/st25-nfc-readers.html] series from ST
+Alternatives are: NXPs [PN5180}(https://www.nxp.com/docs/en/data-sheet/PN5180A0XX_C3_C4.pdf) or [ST25Rxxx](https://www.st.com/en/nfc/st25-nfc-readers.html) series from ST
 
 Even though the RFID concept seems easy, the major challenge will be to desing PCB antenna.
 
