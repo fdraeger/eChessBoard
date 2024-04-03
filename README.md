@@ -74,6 +74,10 @@ POC: Reading Coil, Detection & ADC
 Calculating the LC oscillation signal, it seems we need to be pretty quick to scan the signal:
 ![LC Oscillation](https://github.com/fdraeger/eChessBoard/assets/19647221/9649396b-fd30-4833-bdba-66a33b4e941d)
 
+Measuring a sample LC tank:
+
+![LC Tank Measurement](https://github.com/fdraeger/eChessBoard/assets/19647221/22a4ce88-fc1e-4d56-a45f-67f86c964d25)
+
 
 
 ## Alternate Concepts
