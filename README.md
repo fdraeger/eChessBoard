@@ -71,10 +71,9 @@ POC: Reading Coil, Detection & ADC
 >Can we use the [ESP32 pulse counter feature](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/pcnt.html)?
 >This doesn't seem to be part of the micropython port?
 >
->? Can we use hall sensors and count their trigger signals on the LC magnetic field changing polarity?
->eg. [A1101](https://www.allegromicro.com/~/media/Files/Datasheets/A110x-Datasheet.ashx)
->probably too slow (signal raise & falling times of 400ns)
->
+Calculating the LC oscillation signal, it seems we need to be pretty quick to scan the signal:
+![LC Oscillation](https://github.com/fdraeger/eChessBoard/assets/19647221/9649396b-fd30-4833-bdba-66a33b4e941d)
+
 
 
 ## Alternate Concepts
